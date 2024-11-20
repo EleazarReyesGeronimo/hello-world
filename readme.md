@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 github change testing following swschools tutorial
 
 new modification after the first git test
+
+new lines into the readme file
